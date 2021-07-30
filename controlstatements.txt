@@ -1,0 +1,9 @@
+echo "enter a value"
+echo "enter b value"
+read a value: a
+read b value : b
+if [ a -gt b ] ; then
+echo " a is larger"
+else 
+echo " b is larger"
+fi
